@@ -1,0 +1,16 @@
+PENDIENTE*******
+
+<!-- ========== Start Section ========== -->
+
+<!-- ========== End Section ========== -->
+
+
+***** COMPLETADO****
+
+AJUSTAR ESTILO REPOSIVE A slick-arrow en pantallas moviles 352px INDEX.
+
+Datos de Conexion ftp maytechnologies
+
+User: adminftp@maytechsoluciones.com
+Pass: @dminFtp13210576**
+Directorio: public_html
